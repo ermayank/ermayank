@@ -29,30 +29,12 @@ I love collaborating with other developers so feel free to send me a message!
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
-### Currently working on
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kristian-roopnarine&repo=BugTracker)](https://github.com/Kristian-Roopnarine/Bug-Tracker-Flask)
 ---
 
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ermayank&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermayank&hide=html,glsl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 **ermayank/ermayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
